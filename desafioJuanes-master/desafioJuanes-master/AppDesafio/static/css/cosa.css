@@ -1,0 +1,12 @@
+.cosa{
+    position: relative;
+    top: 60px;
+}
+
+.formDataRegistros{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
